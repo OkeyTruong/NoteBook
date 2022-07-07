@@ -76,7 +76,8 @@ Mã **HTML** được tạo thành từ các ký tự nằm bên trong các dấ
 
 - `<!DOCTYPE html>`  Khai báo đây là một file có định dạng là **HTML5** để giúp trình duyệt biết bạn đang dùng phiên bản html bao nhiêu.
 - Thẻ `<html>` Cấu trúc file html
-Bên trong <html> element, chúng ta có thêm hai phần tử được gọi là `<head>` và `<body>` . Phần đầu của trang web chứa tất cả các Metadata của nó, như tiêu đề trang, bất kỳ bảng định kiểu CSS nào và những thứ khác cần thiết để hiển thị trang web, và bạn không nhất thiết muốn người dùng nhìn thấy. Phần lớn đánh dấu HTML sẽ nằm trong phần tử `<body>`, đại diện cho nội dung hiển thị của trang. 
+Bên trong <html> element, chúng ta có thêm hai phần tử được gọi là `<head>` và `<body>` . Phần đầu của trang web chứa tất cả các Metadata của nó, như tiêu đề trang, bất kỳ bảng định kiểu CSS nào và những thứ khác cần thiết để hiển thị trang web, và bạn không nhất thiết muốn người dùng nhìn thấy. Phần lớn đánh dấu HTML sẽ nằm trong phần tử `<body>`, đại diện cho nội dung hiển thị của trang.
+ 
 ![Untitled](https://www.internetingishard.com/html-and-css/basic-web-pages/html-head-body-7c2a73.png)
 
 Lưu ý cú pháp nhận xét HTML trong đoạn trích trên. Bất cứ điều gì bắt đầu bằng <!-và kết thúc bằng-> sẽ bị bỏ qua hoàn toàn bởi trình duyệt. Điều này rất hữu ích để ghi lại mã của bạn và ghi chú cho chính mình.
